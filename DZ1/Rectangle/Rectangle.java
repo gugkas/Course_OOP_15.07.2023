@@ -1,4 +1,4 @@
-package DZ1;
+package DZ1.Rectangle;
 
 public class Rectangle {
     private int width;

@@ -1,4 +1,4 @@
-package DZ1;
+package DZ1.Cat;
 
 public class task_DZ1 {
     public static void main(String[] args) {
