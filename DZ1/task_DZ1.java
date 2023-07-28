@@ -2,7 +2,7 @@ package DZ1;
 
 public class task_DZ1 {
     public static void main(String[] args) {
-        Cat  cat = new Cat("Барсик ", 5);
+        new Cat("Барсик ", 5);
         System.out.println("Мяу, меня зовут: " + Cat.getName() + "мне " + Cat.age + " лет");
 
     }
